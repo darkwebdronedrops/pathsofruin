@@ -15,7 +15,7 @@
 - **Divine Blessing: Riposte** — When an enemy misses attacking her, she immediately counterattacks with +20% crit.
 - **Personality:** Believes in order and hierarchy. The Goddess's system makes *sense* to her. Corruption feels like chaos.
 - **Corruption reaction:** Outrage. "How could you side with *them*?" Treats it as a personal betrayal.
-- **Relationship hooks:** Admires the Knight's discipline; clashes with the Thief.
+- **Relationship hooks:** Admires the Knight's discipline; clashes with the Thief. **Cousin to Suki** — family reunions are tense (both rigid, different expressions).
 
 ### Rafael (Male, Fencer → Hero/Assassin)
 - **Classroom:** Drama kid. Flamboyant, theatrical, always performing.
@@ -76,7 +76,7 @@
 - **Divine Blessing: Stand Ground** — If she does not move this turn, gains +15 DEF and can counterattack at range 1.
 - **Personality:** Lives by a code she wrote herself. The Goddess's structure validates it.
 - **Corruption reaction:** Fascination. The Demon King has *his own* code. She wants to understand it.
-- **Relationship hooks:** Debates history with the Mage; the Bard writes songs about her.
+- **Relationship hooks:** Debates history with the Mage; the Bard writes songs about her. **Cousin to Yuki** — same family, diverged into student council vs samurai obsession.
 
 ---
 
@@ -94,7 +94,7 @@
 - **Divine Blessing: Trample** — After moving through an enemy's space (overrun), they take damage equal to her MOVE stat.
 - **Personality:** Gentle outside combat, ruthless in it. Her mount is her partner, not her vehicle.
 - **Corruption reaction:** Grief. Her mount rejects her at first. She has to re-earn its trust.
-- **Relationship hooks:** The only one the animals trust; bonded with Tomás (both gentle souls).
+- **Relationship hooks:** The only one the animals trust; bonded with Tomás (both gentle souls). **Older sister to Wei** — she escaped into horses because he was always exploding things.
 
 ---
 
@@ -148,7 +148,7 @@
 - **Divine Blessing: Soul Bind** — After defeating an enemy, their remaining HP is added to her next attack's damage (decays after 2 turns).
 - **Personality:** The ends justify the means. The Goddess is a means to power. So is the Demon King.
 - **Corruption reaction:** Transactional. "What do you offer? Make it worth my time."
-- **Relationship hooks:** Rivals with Yuki; respects Elena's intellect.
+- **Relationship hooks:** Rivals with Yuki; respects Elena's intellect. **Younger brother to Mei** — thinks science is the only thing that makes sense.
 
 ---
 
