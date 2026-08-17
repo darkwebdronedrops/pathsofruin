@@ -52,30 +52,67 @@ Example:
 
 ### Romantic Pairs (Two options per character)
 
-**Yuki (Fencer):** [TBD] / [TBD]
-**Rafael (Fencer):** [TBD] / [TBD]
-**Marcus (Thief):** [TBD] / [TBD]
-**Aisha (Thief):** [TBD] / [TBD]
-**Greta (Fighter):** [TBD] / [TBD]
-**Tomás (Fighter):** [TBD] / [TBD]
-**Roland (Knight):** Wei / Mei (conflict)
-**Suki (Knight):** [TBD] / [TBD]
-**Keith (Cavalier):** [TBD] / [TBD]
-**Mei (Cavalier):** Roland / [TBD]
-**Brother Leo (Priest):** [TBD] / [TBD]
-**Sister Maria (Priest):** [TBD] / [TBD]
-**Elena (Mage):** [TBD] / [TBD]
-**Wei (Mage):** Roland / [TBD]
-**Damien (Warlock):** [TBD] / [TBD]
-**Nia (Warlock):** [TBD] / [TBD]
-**Jax (Bard):** [TBD] / [TBD]
-**Lila (Bard):** [TBD] / [TBD]
-**Twin Converter:** [MC romance option if MC is opposite gender? TBD]
+**Yuki (Fencer):** Marcus / Brother Leo  
+*Why:* Marcus challenges her rigidity; Brother Leo shares her desire for structure and order.
+
+**Rafael (Fencer):** Lila / Sister Maria  
+*Why:* Lila matches his performance energy (but she's exhausted by it); Sister Maria's righteous fury gives him the dramatic intensity he craves.
+
+**Marcus (Thief):** Nia / Yuki  
+*Why:* Nia meets him as an equal in transactional respect; Yuki is the authority figure he can't help but provoke.
+
+**Aisha (Thief):** Brother Leo / Jax  
+*Why:* Brother Leo is the only one who sees her; Jax's music reaches her without requiring her to be visible.
+
+**Greta (Fighter):** Keith / Brother Leo  
+*Why:* Keith matches her physical competitive energy; Brother Leo is someone she can protect.
+
+**Tomás (Fighter):** Mei / Lila  
+*Why:* Mei is another gentle soul who understands not wanting to hurt; Lila finally meets someone who doesn't need her to perform.
+
+**Roland (Knight):** Wei / Mei *(conflict — both siblings pursue him)*
+*Why:* Wei shares his disciplined worldview; Mei softens his rigid sense of duty.
+
+**Suki (Knight):** Damien / Jax  
+*Why:* Damien writes terrible poetry about her knightly ideals; Jax composes songs about her that make her blush.
+
+**Keith (Cavalier):** Greta / Elena  
+*Why:* Greta is the physical match he never had to think about; Elena is the quiet girl he never noticed in class, but she saw everything.
+
+**Mei (Cavalier):** Roland / Tomás  
+*Why:* Roland represents strength she can trust; Tomás is gentleness that mirrors her own.
+
+**Brother Leo (Priest):** Aisha / Greta / Yuki  
+*Why:* Aisha sees his real fears; Greta protects him; Yuki admires his structured faith.
+
+**Sister Maria (Priest):** Rafael / Nia  
+*Why:* Rafael can handle her theatrical intensity; Nia respects her as a force of nature.
+
+**Elena (Mage):** Wei / Keith  
+*Why:* Wei is the intellectual equal who speaks her language; Keith is the unexpected choice — the jock who never saw her, until he did.
+
+**Wei (Mage):** Roland / Elena  
+*Why:* Roland shares his disciplined worldview; Elena is the mind that challenges his.
+
+**Damien (Warlock):** Suki / Lila  
+*Why:* Suki gets his romanticism about darkness; Lila is another performer wearing a mask, and she recognizes his.
+
+**Nia (Warlock):** Marcus / Sister Maria  
+*Why:* Marcus respects her ambition as pragmatism; Sister Maria's fire is the only thing that doesn't break against her.
+
+**Jax (Bard):** Aisha / Suki  
+*Why:* Aisha's silence makes his music matter more; Suki is the knight he writes songs about.
+
+**Lila (Bard):** Rafael / Tomás / Damien  
+*Why:* Rafael is the performer who loves the spotlight with her; Tomás is the one person who lets her stop; Damien recognizes the mask because he wears one too.
+
+**Twin Converter:** MC romance option *(if MC is opposite gender)*
 
 ### MC Romance Options (3 total)
-- [TBD]
-- [TBD]
-- [TBD]
+
+1. **Aisha** — The invisible girl who finally gets seen. Her corruption reaction was "relief" — on your side, she doesn't have to be noticed.
+2. **Damien** — The goth kid who thinks nobody understands his darkness. Corruption validates his worldview: "Of course the demon side wants me."
+3. **Elena** — The quiet analyst who treats corruption as a puzzle. She'd be fascinated by your power as a phenomenon to study... and maybe something more.
 
 ---
 
