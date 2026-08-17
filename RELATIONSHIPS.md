@@ -106,7 +106,7 @@ Example:
 **Lila (Bard):** Rafael / Tomás / Damien  
 *Why:* Rafael is the performer who loves the spotlight with her; Tomás is the one person who lets her stop; Damien recognizes the mask because he wears one too.
 
-**Twin Converter:** MC romance option *(if MC is opposite gender — cross-faction)* / **Elena** *(same side, both anomalies)* / **Sister Maria** *(same side, the enemy she can't hate)* / **Tomás** *(same side, gentlest souls)*  
+**Twin Converter:** MC romance option *(if MC is opposite gender — cross-faction, ONLY after corruption)* / **Elena** *(same side, both anomalies)* / **Sister Maria** *(same side, the anomaly she can't categorize)* / **Tomás** *(same side, gentlest souls)*  
 *Why:* Elena (both anomalies, chosen by opposite gods); Sister Maria (she needs to understand why he chose the other side); Tomás (the gentlest soul on either side).
 
 ### MC Romance Options (3 total)
@@ -123,6 +123,14 @@ Example:
 - **Romantic scenes:** Trigger when both characters are present and support level is high enough
 - **Conflict scenes:** Trigger when two characters pursuing the same person are both present
 - **Corruption reactions:** Special scenes when a corrupted hero reunites with their romantic interest on the other side
+- **Cross-faction romances:** Romantic scenes with enemy-side characters (e.g., MC ↔ Twin Converter) ONLY unlock after that character is corrupted to your side
+
+### Twin Converter — Special Case
+
+The Twin Converter starts on the **human/Goddess's side**. All romantic content with them follows these rules:
+- **Same-side romances** (Elena, Sister Maria, Tomás): Available normally — they're already allies
+- **Cross-faction romance** (MC): **ONLY unlocks after corrupting the Twin Converter.** You must defeat and recruit them before any romantic scenes become available.
+- This makes the Twin Converter a **strategic AND romantic target** — the only way to romance them is to win them over through Apostle's Touch.
 
 ---
 
