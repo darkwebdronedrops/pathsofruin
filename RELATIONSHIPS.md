@@ -123,14 +123,14 @@ Example:
 - **Romantic scenes:** Trigger when both characters are present and support level is high enough
 - **Conflict scenes:** Trigger when two characters pursuing the same person are both present
 - **Corruption reactions:** Special scenes when a corrupted hero reunites with their romantic interest on the other side
-- **Cross-faction romances:** Romantic scenes with enemy-side characters (e.g., MC ↔ Twin Converter) ONLY unlock after that character is corrupted to your side
+- **Cross-faction romances:** Romantic scenes with enemy-side characters (e.g., MC ↔ Twin Converter) **ONLY unlock after that character is corrupted AND at least one full map has passed.** The delay represents them processing the conversion before any romantic content begins.
 
 ### Twin Converter — Special Case
 
 The Twin Converter starts on the **human/Goddess's side**. All romantic content with them follows these rules:
 - **Same-side romances** (Elena, Sister Maria, Tomás): Available normally — they're already allies
-- **Cross-faction romance** (MC): **ONLY unlocks after corrupting the Twin Converter.** You must defeat and recruit them before any romantic scenes become available.
-- This makes the Twin Converter a **strategic AND romantic target** — the only way to romance them is to win them over through Apostle's Touch.
+- **Cross-faction romance** (MC): **ONLY unlocks after corrupting the Twin Converter AND completing at least one full map.** The delay represents them processing the conversion before romance begins.
+- This makes the Twin Converter a **strategic AND romantic target** — but you have to wait for the payoff.
 
 ---
 
