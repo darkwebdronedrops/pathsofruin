@@ -67,8 +67,8 @@ Example:
 **Greta (Fighter):** Keith / Brother Leo  
 *Why:* Keith matches her physical competitive energy; Brother Leo is someone she can protect.
 
-**Tomás (Fighter):** Mei / Lila  
-*Why:* Mei is another gentle soul who understands not wanting to hurt; Lila finally meets someone who doesn't need her to perform.
+**Tomás (Fighter):** Mei / Lila / **Twin Converter**  
+*Why:* Mei is another gentle soul who understands not wanting to hurt; Lila finally meets someone who doesn't need her to perform; the Twin Converter is the gentlest of the "enemy" side.
 
 **Roland (Knight):** Wei / Mei *(conflict — both siblings pursue him)*
 *Why:* Wei shares his disciplined worldview; Mei softens his rigid sense of duty.
@@ -85,11 +85,11 @@ Example:
 **Brother Leo (Priest):** Aisha / Greta / Yuki  
 *Why:* Aisha sees his real fears; Greta protects him; Yuki admires his structured faith.
 
-**Sister Maria (Priest):** Rafael / Nia  
-*Why:* Rafael can handle her theatrical intensity; Nia respects her as a force of nature.
+**Sister Maria (Priest):** Rafael / Nia / **Twin Converter**  
+*Why:* Rafael can handle her theatrical intensity; Nia respects her as a force of nature; the Twin Converter is the *enemy* she can't hate — he chose the other side, and she needs to understand why.
 
-**Elena (Mage):** Wei / Keith  
-*Why:* Wei is the intellectual equal who speaks her language; Keith is the unexpected choice — the jock who never saw her, until he did.
+**Elena (Mage):** Wei / Keith / **Twin Converter**  
+*Why:* Wei is the intellectual equal who speaks her language; Keith is the unexpected choice — the jock who never saw her, until he did; the Twin Converter is the *other* anomaly, the one person who understands what it means to be chosen by the wrong god.
 
 **Wei (Mage):** Roland / Elena  
 *Why:* Roland shares his disciplined worldview; Elena is the mind that challenges his.
@@ -106,7 +106,8 @@ Example:
 **Lila (Bard):** Rafael / Tomás / Damien  
 *Why:* Rafael is the performer who loves the spotlight with her; Tomás is the one person who lets her stop; Damien recognizes the mask because he wears one too.
 
-**Twin Converter:** MC romance option *(if MC is opposite gender)*
+**Twin Converter:** MC romance option *(if MC is opposite gender)* / **Elena** / **Sister Maria** / **Tomás**  
+*Why:* Elena (both anomalies, chosen by opposite gods); Sister Maria (she needs to understand why he chose the other side); Tomás (the gentlest soul on either side).
 
 ### MC Romance Options (3 total)
 
