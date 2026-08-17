@@ -212,6 +212,85 @@ At character generation, the MC replaces **one of two possible characters** base
 4. **The Demon King is not evil by default** — Corruption is a tool, not a moral failing.
 5. **Player agency over plot** — The story requires only you. Everything else is optional.
 
+## 9. Class System
+
+### 9.1 Base Classes (10 total)
+
+| Base Class | Stat Modifiers / Abilities |
+|-----------|---------------------------|
+| **Fencer** | +10% crit |
+| **Thief** | Open locks, +1 Move |
+| **Fighter** | +2 CON |
+| **Knight** | -1 Move, +20% DEF growth |
+| **Cavalier** | +2 Move, -5% all growths |
+| **Priest** | +10% LCK growth |
+| **Mage** | Critical hits are x4 instead of x3 |
+| **Warlock** | -10% SKL growth, +4 ATK |
+| **Bard** | Double SPD bonus when attacked |
+| **Apostle** (MC only) | Corruption ability, +5% all growths |
+
+### 9.2 Advanced Classes (10 total)
+
+Base classes share advanced classes in a chain:
+
+| Base Class Pair | Advanced Class |
+|----------------|----------------|
+| Fencer / Apostle | Hero |
+| Fencer / Thief | Assassin |
+| Thief / Fighter | Pirate |
+| Fighter / Knight | Barbarian |
+| Knight / Cavalier | Dragoon |
+| Cavalier / Priest | Paladin |
+| Priest / Mage | Sage |
+| Mage / Warlock | Archmage |
+| Warlock / Bard | Shaman |
+| Bard / Apostle | Saint |
+
+### 9.3 Class Change Rules
+
+- **Base class abilities persist** through class change
+- Example: Thief → Assassin keeps lockpicking and +1 Move
+- Example: Fencer → Assassin keeps +10% crit
+- Two units of the same advanced class can play completely differently depending on their base class
+
+### 9.4 Three-Layer Ability System
+
+Every character has **3 layers** of abilities:
+1. **Base class** — shared with all of that base class
+2. **Advanced class** — shared with all of that advanced class
+3. **Unique ability** — character-specific only
+
+This means a corrupted enemy brings their full build: base + advanced + unique.
+
+---
+
+## 10. Stats & Growth
+
+### 10.1 Stat Caps (Base Classes)
+
+| Stat | Base Cap | Notes |
+|------|---------|-------|
+| **HP** | 60 | Never class-limited |
+| **LCK** | 30 | Never class-limited |
+| **ATK** | 20 | |
+| **SKL** | 20 | |
+| **SPD** | 20 | |
+| **DEF** | 20 | |
+| **RES** | 20 | |
+
+### 10.2 Level-Up Stats (7 rolled)
+
+On level up, the following stats are randomly rolled based on growth percentages:
+- HP, ATK, SKL, SPD, LCK, DEF, RES
+
+### 10.3 Derived / Function Stats
+
+These are **not** rolled on level up:
+- **HIT** — calculated function
+- **CRIT** — calculated function
+- **MOVE** — modified by class
+- **CON** — modified by class
+
 ---
 
 *Document started: 2026-08-17*  
