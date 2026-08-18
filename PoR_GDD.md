@@ -175,13 +175,71 @@ At character generation, the MC replaces **one of two possible characters** base
 
 ## 6. Structure
 
-### 6.1 Chapters
+### 6.1 Three-Act Structure
+
+The game is divided into three narrative and mechanical sections:
+
+#### Act I: The Tutorial (Chapters 1–3)
+
+**Chapter 1 — The Real World**
+- Opens in the classroom. All 20 students are introduced.
+- Player selects MC gender, replacing one of two characters.
+- Brief interactive scenes establishing classroom dynamics and relationships.
+- The isekai event: light, summoning, separation.
+
+**Chapter 2 — The Summoning**
+- MC awakens in the Demon King's realm. First combat against monsters.
+- Exposition delivered through combat: tutorial mechanics, Apostle's Touch demonstration.
+- Demon King explains the war, the Goddess, your power.
+
+**Chapter 3 — First Blood**
+- First encounter with the Goddess's heroes. Tutorial corruption.
+- Demonstrates the core choice: kill or corrupt.
+- Establishes the Twin Converter as antagonist.
+
+#### Act II: The Main Game (Chapters 4–20)
+
+- **Overworld map** with branching paths
+- Player chooses which regions/battles to engage
+- Path choice determines:
+  - Which heroes appear as enemies (and can be corrupted)
+  - Which heroes may die before you reach them
+  - Terrain types, enemy composition, rewards
+- Some heroes appear in multiple paths; others are path-locked
+- Demon army hirelings available between battles
+- Camp and relationship management between chapters
+
+#### Act III: The Endgame (Chapters 21–23)
+
+- Assault on the **enemy capital** (Goddess's stronghold)
+- All surviving heroes are deployed in defense
+- Final confrontation with the **Twin Converter**
+- Multiple endings based on:
+  - Who was corrupted
+  - Who died
+  - MC's romance
+  - Whether the Twin Converter was recruited
+
+### 6.2 Total Chapters
 
 - **23 chapters** total
-- Each chapter = one tactical battle
-- Between chapters: camp/relationship management
+- Chapters 1–3: Tutorial
+- Chapters 4–20: Main game (overworld path choices)
+- Chapters 21–23: Endgame (capital assault)
 
-### 6.2 Progression
+### 6.3 Overworld Map
+
+- **Node-based** map with connected regions
+- Each node = one chapter/battle
+- Some nodes are **optional** (recruitment opportunities)
+- Some nodes are **mandatory** (story progression)
+- Node selection determines:
+  - Which heroes appear
+  - Which terrain
+  - Enemy army composition
+  - Available rewards
+
+### 6.4 Progression
 
 - MC grows through normal combat XP
 - Army grows through corruption (immediate) or hirelings (between battles)
@@ -194,11 +252,11 @@ At character generation, the MC replaces **one of two possible characters** base
 - [x] What happens if MC dies? **Game over. No resurrection.**
 - [x] Can corrupted heroes be "uncorrupted" or saved? **Yes — via the Twin Converter.**
 - [ ] What does the Demon King provide besides the initial summon? Guidance? Resources?
-- [ ] How are the 19 distributed across the 23 chapters? All appear? Some die before you meet them?
+- [x] How are the 19 distributed across the 23 chapters? **Tutorial (3) → Main game with overworld paths (17) → Endgame (3). Some may die before you reach them based on path choices.**
 - [ ] Does the MC have a class system, or is Apostle's Touch the only differentiator?
 - [ ] Equipment/gear system depth?
 - [x] What does "corruption" look like visually/narratively? **Team color swap + red eyes. Not body horror.**
-- [ ] Ending structure — multiple endings based on who lives/dies/who you romance?
+- [x] Ending structure — multiple endings based on who lives/dies/who you romance? **Yes — corrupted roster, deaths, romance, and Twin Converter status all factor in.**
 - [ ] Camp scene scope — how many? Fully written or procedural/generated?
 - [ ] What is the Twin Converter's class/build?
 
