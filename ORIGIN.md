@@ -129,18 +129,68 @@ The corruption ability isn't random. It's the Demon King's signature. He chose a
 
 ---
 
-## Recommendation
+## CANON: The Rejected Apostle (Hybrid of Options 3 + 4)
 
-**Hybrid: Option 3 + Option 4**
+### What Happened
 
-The **Goddess's ritual had a filter** (Option 3). The MC failed it — too questioning, too independent, too morally complex. The **Demon King detected the rejection** and claimed the discarded soul (Option 3). But he didn't just rescue them — he **recognized potential** (Option 4). The MC's soul was compatible with corruption power not because they were evil, but because they understood rejection, otherness, the pain of being made monstrous.
+The Goddess's summoning ritual targeted a single classroom. It pulled 20 students. But the ritual included a **soul filter** — it screened for faith, loyalty, purity of purpose. Nineteen students passed.
 
-The Twin Converter passed the Goddess's filter. The MC failed it. That's the only difference between them.
+One failed. The MC — too questioning, too independent, too morally complex.
 
-### The Final Revelation
-The Goddess's filter rejected the one soul that could have saved her. The Demon King saved the one soul that could destroy him. Both gods made a choice. Neither understood the consequence.
+The filter **discarded** the MC's soul. The Goddess didn't register this as a loss. She assumed the failed soul simply returned to Earth. In her mind, she summoned exactly who she intended: **19 heroes.** A clean number.
 
-The MC is not the Demon King's weapon. The MC is the **Goddess's mistake**.
+**The critical blind spot:** The Goddess assumed the Demon King's Apostle would be a **monster native to his realm** — one of his own subjects elevated to champion. She never imagined the Demon King would catch her rejected soul.
+
+The Demon King detected the discarded soul mid-rejection. He claimed what the light threw away. He didn't just rescue it — he **recognized it.** A soul that questions, that doubts, that sees complexity... that's a soul compatible with corruption power. Not because it's evil. Because it understands what it means to be made monstrous by someone else's standards.
+
+### The Goddess's Blindness
+
+- She knows she summoned 19 students
+- She assumes the 20th never left Earth
+- She expects the Demon King to field a **native monster champion**
+- She has **no idea** her rejected student is the enemy Apostle
+
+This creates the game's central dramatic irony:
+
+**Early game:** The heroes don't recognize the MC. They think they're fighting a demon general. Then the reveal: *"Wait... that's [MC name]? From our class?"*
+
+**Mid game:** The Goddess's command structure slowly realizes the truth. Some heroes refuse to believe it. Others feel guilt — they passed the filter; their classmate didn't.
+
+**Late game:** The Goddess herself must confront it: her filter rejected the one soul that could have saved her.
+
+### The Twin Converter
+
+The Twin Converter **passed** the filter. They were the 19th soul — the last approved, the final one accepted. The MC was the 20th — the one after, the rejected.
+
+The Twin Converter represents what the MC "should have been." Approved. Chosen. Light-side.
+
+Their confrontation isn't just tactical — it's existential: *"I passed. You failed. That's the only difference between us."*
+
+And the MC's answer: *"The only difference is that you were wanted."*
+
+### Why This Works
+
+1. **The Goddess is complex** — her filter had a reason (war demands loyalty), but her blind spot was arrogance (she never considered the rejected could matter)
+2. **The Demon King is complex** — he didn't steal; he caught. But catching required positioning, which required foresight
+3. **The MC's power is thematic** — corruption works because the MC knows rejection intimately
+4. **The heroes' reactions vary naturally** — some grieve, some deny, some feel survivor's guilt, some see opportunity
+5. **The Twin Converter is tragic** — they were the "last approved," never knowing approval itself was the flaw
+
+### Key Plot Beats
+
+| Chapter | Beat |
+|---------|------|
+| 1-3 | MC learns they're the Demon King's Apostle. No explanation given. |
+| 4-10 | Heroes react with confusion: *"You look like our classmate..."* |
+| 11-15 | Confirmation spreads. Goddess's side debates: kill them or "recover" them? |
+| 16-20 | The Goddess learns the truth. Her reaction determines endgame framing. |
+| 21-23 | Final confrontation. MC chooses: destroy the filter, replace the Goddess, or something else. |
+
+---
+
+## Options Considered (Archive)
+
+*The four options below were analyzed before settling on the hybrid above.*
 
 ---
 
